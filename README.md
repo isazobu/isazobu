@@ -14,4 +14,6 @@
 
 <img align="left" alt="İsa Zobu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=isazobu&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=isazobu&show_icons=true&hide_border=true&count_private=true&hide=javascript&layout=compact&theme=vue
+[![Top Langs][mostusedlang]][home]
+
+[mostusedlang]: https://github-readme-stats.vercel.app/api/top-langs/?username=isazobu&show_icons=true&hide_border=true&count_private=true&hide=javascript&layout=compact&theme=vue
