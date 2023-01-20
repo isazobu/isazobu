@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m currently working on Jaliri
-- 🌱 I’m currently learning Go and React/Next
+- 🔭 I’m currently working on Siemens
+- 🌱 I’m currently learning React/Next
 - 🤔 I’m looking for help with Cloud Computing
 - 💬 Ask me about anything
 - 📫 How to reach me: (isaazobu@gmail.com)
