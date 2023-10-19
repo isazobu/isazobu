@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on Siemens
+- 🔭 I’m currently working on Midas
 - 🌱 I’m currently learning React/Next
 - 🤔 I’m looking for help with Cloud Computing
 - 💬 Ask me about anything
