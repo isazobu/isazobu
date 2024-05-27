@@ -5,8 +5,7 @@
 
 
 - 🔭 I’m currently working on Midas
-- 🌱 I’m currently learning React/Next
-- 🤔 I’m looking for help with Cloud Computing
+- 🌱 I’m currently learning Cloud Computing&LLM
 - 💬 Ask me about anything
 - 📫 How to reach me: (isaazobu@gmail.com)
 - 😄 Pronouns: ...He/Him
